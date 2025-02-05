@@ -6,6 +6,6 @@
 
 [submodule "ink"]
 	path = ink
-	url = https://github.com/CodeChopsOrg/oqtane.framework
+	url = https://github.com/CodeChopsOrg/ink
 	branch = release/v1.2.0
 	ignore = all
